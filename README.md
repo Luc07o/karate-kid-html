@@ -16,6 +16,9 @@ Esta página apresenta informações sobre o filme Karate Kid (2010), incluindo:
 
 - HTML5
 
+🔗 **Deploy:** https://luc07o.github.io/karate-kid-html/ 
+
+
 ## 🎯 Objetivo
 
 Praticar HTML, aplicando elementos semânticos como:
